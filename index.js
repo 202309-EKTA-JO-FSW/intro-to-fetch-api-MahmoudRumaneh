@@ -28,7 +28,8 @@ async function fetchUserData() {
             };
         });
 
-
+        // console.log("Modified User Data:");
+        // console.log(modifiedUsers);
 
         const filteredUsers = modifiedUsers.filter((user) =>
             user.email.endsWith(".biz")
