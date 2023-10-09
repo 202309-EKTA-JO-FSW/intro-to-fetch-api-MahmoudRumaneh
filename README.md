@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=12288054&assignment_repo_type=AssignmentRepo)
 # Activity: Fetching and Modifying JSONPlaceholder User Data
 
 In this activity, you will learn how to fetch user data from the JSONPlaceholder API, store it in a variable, and create modified objects for each user with specific fields using JavaScript.
