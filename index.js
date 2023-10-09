@@ -36,7 +36,7 @@ async function fetchUserData() {
         );
 
         console.log("\nFiltered User Data (Email ends with '.biz'):");
-        console.log(filteredUsers);
+        console.log(filteredUsers);//
 
         const sortedUsers = modifiedUsers.sort((a, b) => a.name.localeCompare(b.name));
 
